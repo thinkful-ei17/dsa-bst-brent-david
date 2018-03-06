@@ -1,0 +1,11 @@
+Height of a BST
+Write an algorithm to find the height of a binary search tree. What is the run time of your algorithm?
+
+is it BST?
+Write an algorithm to check whether an arbitrary binary tree is a binary search tree, assuming the tree does not contain duplicates
+
+Third largest node
+Write an algorithm to find the third largest node in a binary search tree
+
+Balanced BST
+Write an algorithm that checks if a BST is balanced (i.e. a tree where no two leaves differ in distance from the root by more than one).
